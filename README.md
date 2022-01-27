@@ -1,16 +1,45 @@
-### Hi there 👋
+```php
+<?php
 
-<!--
-**ItsJackson/ItsJackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+namespace Jackson;
 
-Here are some ideas to get you started:
+class About extends me 
+{
+    public function
+    getDiscordBot(): array
+    {
+        return [
+            'Discord Bot' => 'Apollo',
+            'position' => 'Owner/Lead Developer',
+        ]
+        ];
+    }
+    
+    public function getContacts(): array
+    {
+    return [
+    Twitter::https://twitter.com/ItsJxckson1
+    Email::jxcksondev@gmail.com
+    ]
+    ];
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public function getKnowledge(): array
+    {
+        return [
+            Php::class,
+            JavaScript::class,
+            React::class,
+            discordjs::class,
+            HTML::class
+        ];
+    }
+
+    public function getFutureGoal():string
+    {
+        return 'To work for Apple. 🍎'
+    }
+}
+
+}
+```
