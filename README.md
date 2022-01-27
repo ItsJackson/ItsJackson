@@ -15,14 +15,6 @@ class About extends me
         ];
     }
     
-    public function getContacts(): array
-    {
-    return [
-    Twitter::@ItsJxckson1
-    Email::jxcksondev@gmail.com
-    ]
-    ];
-    }
 
     public function getKnowledge(): array
     {
