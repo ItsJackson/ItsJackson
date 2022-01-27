@@ -18,7 +18,7 @@ class About extends me
     public function getContacts(): array
     {
     return [
-    Twitter::https://twitter.com/ItsJxckson1
+    Twitter::@ItsJxckson1
     Email::jxcksondev@gmail.com
     ]
     ];
