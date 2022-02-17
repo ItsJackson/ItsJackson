@@ -1,37 +1,19 @@
-```php
-<?php
+### A quick introduction
 
-namespace Jackson;
+```js
 
-class About extends me 
-{
-    public function
-    getDiscordBot(): array
-    {
-        return [
-            'Discord Bot' => 'Apollo',
-            'position' => 'Owner/Lead Developer',
-        ]
-        ];
-    }
-    
-
-    public function getKnowledge(): array
-    {
-        return [
-            Php::class,
-            JavaScript::class,
-            React::class,
-            discordjs::class,
-            HTML::class
-        ];
-    }
-
-    public function getFutureGoal():string
-    {
-        return 'To work for Apple. 🍎'
-    }
-}
-
-}
+const introduce = (firstName) => `Greetings! My name is ${firstName}!`
+introduce("Jackson")
 ```
+
+Here's some things about me!
+- 📚 - I'm a Student.
+- 🔭 - I'm currently a front-end designer, Discord Bot programmer, and Developer of NPM Packages.
+- 🌎 - I live on Earth.
+
+### Hello! My name is Jackson!
+
+- 🥬 I'm currently learning:
+- 🔰 TypeScript
+- 🕸️ ReactJS
+
