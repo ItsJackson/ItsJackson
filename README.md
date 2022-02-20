@@ -17,3 +17,5 @@ Here's some things about me!
 - 🔰 TypeScript
 - 🕸️ ReactJS
 
+## Contact on Discord:
+Jxckson#6216
