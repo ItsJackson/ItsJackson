@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ItsJackson/ItsJackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```ts
+let person;
 
-Here are some ideas to get you started:
+ object = {
+ pronouns: 'He/Him',
+ languages: ['JavaScript', 'TypeScript', 'HTML'],
+ projects: ['flux-bot', 'sev-bot'],
+ location: 'TN, United States'
+}
+person = object;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+
