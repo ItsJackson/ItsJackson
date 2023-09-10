@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```ts
-let person;
+let ItsJackson;
 
  object = {
  pronouns: 'He/Him',
@@ -9,7 +9,7 @@ let person;
  projects: ['flux-bot', 'sev-bot'],
  location: 'TN, United States'
 }
-person = object;
+ItsJackson = object;
 
 ```
 
