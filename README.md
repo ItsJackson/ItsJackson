@@ -1,3 +1,7 @@
-### Hi there 👋
+### 👋 I'm seven aka Jackson
+---
+```js 
 
+
+```
 
