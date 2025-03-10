@@ -9,8 +9,13 @@
 ### 🔧 About Me  
 I'm a passionate software developer specializing in **JavaScript** and **TypeScript**, with expertise in **Discord.js** and **MongoDB**. Over the years, I've worked on multiple projects, including:  
 
+### Previous Projects ⏪
 - **Apollo** – A discord bot that had moderation features, and kept communities to scale and refereshed. 
 - **PhotoShop** – I dabble in the art of photoshop frequently.
+
+### New Projects ⏩
+- **C++ Calculator** or Adversity - Adversity is a powerful mathematic calculator, performing high and low level arithmetic, launching soon.
+- **Hangman** - Soon.
 
 I love solving problems, optimizing performance, and making tools that improve online communities!  
 
