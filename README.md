@@ -14,7 +14,7 @@ I'm a passionate software developer specializing in **JavaScript** and **TypeScr
 - **PhotoShop** – I dabble in the art of photoshop frequently.
 
 ### New Projects ⏩
-- **C++ Calculator** or Adversity - Adversity is a powerful mathematic calculator, performing high and low level arithmetic, launching soon.
+- ~~**C++ Calculator** or Adversity - Adversity is a powerful mathematic calculator, performing high and low level arithmetic, launching soon.~~ (Scratched from Development)
 - **Hangman** - Soon.
 
 I love solving problems, optimizing performance, and making tools that improve online communities!  
